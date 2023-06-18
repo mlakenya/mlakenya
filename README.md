@@ -4,7 +4,7 @@
 - 👀 I’m interested in C/C++/C# programmation languages 
 - 🌱 I’m currently learning at 42 school
 - 💞️ I’m looking to improve my knowledges
-- 📫 You can reach me directly on my [linkedIn](https://www.linkedin.com/in/riyaz-usmanov/)
+- 📫 You can reach me directly on my [linkedIn](https://www.linkedin.com/in/vladimir-kibanov-937905243/)
 <!-- 
 github_dark 
 &theme=radical -->
