@@ -8,8 +8,8 @@
 <!-- 
 github_dark 
 &theme=radical -->
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kibanov02&show_icons=true&theme=github_dark)](https://github.com/kibanov02?tab=repositories)
-![riazus's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibanov02&count_private=true&show_icons=true&theme=github_dark)
-![Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kibanov02&show_icons=true&theme=github_dark)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mlakenya&show_icons=true&theme=github_dark)](https://github.com/mlakenya?tab=repositories)
+![mlakenya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlakenya&count_private=true&show_icons=true&theme=github_dark)
+![Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mlakenya&show_icons=true&theme=github_dark)
 
-![](https://komarev.com/ghpvc/?username=kibanov02&label=PROFILE+VIEWS&style=flat-square)
+![](https://komarev.com/ghpvc/?username=mlakenya&label=PROFILE+VIEWS&style=flat-square)
