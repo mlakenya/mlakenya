@@ -1,10 +1,10 @@
 
 ### Well met 👋 
-### My name is Kibanov Vladimir, I'm working in .Net/C# ⚡
+### My name is Vladimir Kibanov, I'm working in .Net/C# ⚡
 - 👀 I’m interested in C/C++/C# programmation languages 
-- 🌱 I’m currently learning at 42 school
+- 🌱 I’m currently learning at Ecole 42 univercity
 - 💞️ I’m looking to improve my knowledges
-- 📫 You can reach me directly on my [linkedIn](https://www.linkedin.com/in/vladimir-kibanov-937905243/)
+- 📫 You can reach me directly: **lopinkib@gmail.com**
 <!-- 
 github_dark 
 &theme=radical -->
