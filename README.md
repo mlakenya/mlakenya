@@ -12,4 +12,4 @@ github_dark
 ![mlakenya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlakenya&count_private=true&show_icons=true&theme=github_dark)
 ![Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mlakenya&show_icons=true&theme=github_dark)
 
-![](https://komarev.com/ghpvc/?username=mlakenya&label=PROFILE+VIEWS&style=flat-square&color=green)
+![](https://komarev.com/ghpvc/?username=mlakenya&label=PROFILE+VIEWS&style=flat-square&color=blue)
