@@ -1,8 +1,8 @@
 
 ### Well met 👋 
 ### My name is Vladimir Kibanov, I'm working in .Net/C# ⚡
-- 👀 I’m interested in C/C++/C# programmation languages 
-- 🌱 I’m currently studying at Ecole 42 univercity
+- 👀 I'm interested in C/C++/C# programming languages
+- 🌱 I'm currently studying at Ecole 42 university
 - 💞️ I’m looking to improve my knowledges
 - 📫 You can reach me directly: **lopinkib@gmail.com**
 <!-- 
