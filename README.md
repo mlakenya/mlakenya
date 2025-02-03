@@ -1,7 +1,7 @@
 
 ### Well met 👋 
-### My name is Vladimir Kibanov, I'm a .Net/C# developer⚡
-- 👀 I'm interested in C/C++/C# programming languages
+### My name is Vladimir Kibanov, I'm a Golang developer⚡
+- 👀 I'm interested in C/C++/Go programming languages
 - 🌱 I'm currently studying at Kazan Federal University
 - 💞️ I’m looking to improve my knowledges
 - 📫 You can reach me directly: **lopinkib@gmail.com**
